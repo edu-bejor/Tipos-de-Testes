@@ -5,3 +5,5 @@ Teste de unidade/teste de função refere-se ao teste realizado na menor parte t
 O teste de integração é o teste que é realizado entre diferentes módulos em um sistema. Imagine que o sistema faz requisições HTTP, o que é muito comum encontrar hoje em dia, neste teste é analisada toda a requisição, verificando o resultado retornado, código de resposta, formato de dados. 
   
 Testes end to end (e2e) /teste de ponta a ponta, neste tipo de teste a gente só quer simular um utilizador real do nosso produto, utilizando um teste “automatizado” do início ao fim de um processo. Por que o nome de ponta a ponta? Porque você testa o fluxo inteiro da sua aplicação, desde o front-end até o mais fundo do back-end.  
+
+Para aprender irei utilizar algumas ferramentas em alguns programas simples. Como primeiro teste, criei um código de uma calculadora utilizando JavaScript, CSS e HTML e irei fazer os testes utilizando a ferramenta "cypress"
