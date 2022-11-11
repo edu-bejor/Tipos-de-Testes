@@ -8,3 +8,6 @@ Testes end to end (e2e) /teste de ponta a ponta, neste tipo de teste a gente só
 
 ## Primeiro teste
 Para aprender, irei utilizar algumas ferramentas em alguns programas simples. Como primeiro teste, criei um código de uma calculadora utilizando JavaScript, CSS e HTML e irei fazer os testes utilizando a ferramenta "cypress"
+
+## Para fazer  
+TESTAR e aprender PLAYWRIGTH E JEST
