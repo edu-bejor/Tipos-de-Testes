@@ -7,7 +7,7 @@ O teste de integração é o teste que é realizado entre diferentes módulos em
 Testes end to end (e2e) /teste de ponta a ponta, neste tipo de teste a gente só quer simular um utilizador real do nosso produto, utilizando um teste “automatizado” do início ao fim de um processo. Por que o nome de ponta a ponta? Porque você testa o fluxo inteiro da sua aplicação, desde o front-end até o mais fundo do back-end.  
 
 ## Primeiro teste
-Para aprender, irei utilizar algumas ferramentas em alguns programas simples. Como primeiro teste, criei um código de uma calculadora utilizando JavaScript, CSS e HTML e irei fazer os testes utilizando a ferramenta "cypress".    
+Para aprender, irei utilizar algumas ferramentas em alguns programas simples. Como primeiro teste, criei um código de uma calculadora utilizando JavaScript, CSS e HTML e irei fazer os testes utilizando a ferramenta "cypress". Clicando em *calculadora JEBJ* vocês podem ver.      
 
 ## Segundo teste  
 Para aprender playwrigth, criei dois código em TS. Um bem básico que entra no site da Google e digita "MackLeaps" na barra de pesquisa. No outro eu criei uma conta *"Fake"* no *Github* para testar o login.  
