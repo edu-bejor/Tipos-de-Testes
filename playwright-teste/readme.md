@@ -7,4 +7,6 @@ Criei dois exemplos básicos para aprender *Playwright*, ao clicar em tests temo
 ## Comandos para execução  
 - Para instalar o playwright precisa abrir um terminal e executar o seguinte comando: `npm init playwright@latest`  
 - Para executar o programa precisa executar o seguinte comando no terminal: `npx playwright test`  
+- Como há mais de um arquivo, caso queira rodar apenas um execute o seguinte comando: `npx playwright test {nome do arquivo}`  
 - Depois de executado, caso queira ver os reports do teste execute o seguinte comando: `npx playwright show-report`
+
